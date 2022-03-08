@@ -103,7 +103,7 @@ main h1 {
   font-family: var(--fonte-android);
   font-weight: normal;
   font-size: 1.6em;
-  
+  text-align: left;  
 }
 
 main h2 {
